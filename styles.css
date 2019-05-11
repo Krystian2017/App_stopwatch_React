@@ -16,14 +16,6 @@ body {
   font-size: 5em;
 }
 
-div {
-  text-align: center;
-  background-color: #607D8B;
-  width: 70%;
-  padding: 10px;
-  font-size: 5em;
-}
-
 .stopwatch {
   color: #fff;
 }
